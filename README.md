@@ -7,7 +7,6 @@
 [made-with-python]: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
 
 - Download latest CWE database, open > read > parse data > convert to JSON format
-- If you find this helpful, please the **"star"**:star2: to support further improvements.
 
 ## Step 1: download CWE database from cwe.mitre.org, if necessary
 ```bash
